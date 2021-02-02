@@ -6,7 +6,7 @@
 - save_dir/pic:保存压缩后的jpg 
 - pdf_dir :原始的pdf 
 
-## star
+## gen_star
 生成夜空中的星
 
 
